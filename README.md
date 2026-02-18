@@ -1,1 +1,9 @@
 # nba-point-differential-linear-regression
+
+# Overview
+
+Hello everyone, I am Eric Lee! I am here because I want to continue developing my data science/development/machine learning/data analysis skills as much as possible. Deploying a ml model no longer cuts it, and I want to become better at the entire process: from web scraping to data pre-processing to feature selection to model implementation and so on. I am going to be slowly going through all of the different types of machine learning models from linear regression (the current one I am working on) up to neural networks. Now that I am out of the classroom, this is the perfect opportunity to apply the skills I have developed to project ideas I am actually interested in. Think of these projects more as research than anyhting else.
+
+# Project Specifications
+
+For this first project, I wanted to dive into a world I am already familiar with: Basketball (specifically the NBA). I thoroughly enjoy playing and watching basketball, and over the years I have gained a particularly good eye when watching professional basketball. It has led me to want a deeper understanding of the sport, and if I can understand it more through machine learning and statistics. This project will be attempting to predict the point differential between two NBA teams, and in specific, utilize linear regression. Diving into the model specifics, point differential is a continuous numeric variable, meaning there is no class/category that you can put each value of a point differential in. We are starting with a linear regression model in an attempt to determine whether we can accurately guess the point differential for an NBA game, or to determine whether a linear regression model is best for this problem.
